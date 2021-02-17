@@ -1,0 +1,23 @@
+---
+title: Open NAP Master
+keywords:
+  - generic NAP
+  - Open NAP
+lang: en-US
+authors:
+  - github: desanker
+    name: Paul V. Desanker
+    initials: PD
+    orcid: XXXX-XXXX-XXXX-XXXX
+    twitter: XX
+    email: pdesanker@unfccc.int
+    Affiliations:
+      - Adaptation Division
+  - github: janeroe
+    name: Jane Roe
+    initials: JR
+    orcid: XXXX-XXXX-XXXX-XXXX
+    email: jane.roe@whatever.edu
+    affiliations:
+      - Department of Something, University of Whatever
+      - Department of Whatever, University of Something
